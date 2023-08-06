@@ -1,6 +1,6 @@
 ## EDA on the Global Country Information Dataset 2023
 
-In this Jupyter Notebook, I've conducted a comprehensive exploratory data analysis on the GCI dataset for the year 2023. The notebook can be accessed directly on [Kaggle here](https://www.kaggle.com/nindowell/gci-dataset-2023-eda).
+In this Jupyter Notebook, i did an exploratory data analysis on the GCI dataset for the year 2023. The notebook can be accessed on [Kaggle here](https://www.kaggle.com/nindowell/gci-dataset-2023-eda).
 
 **Data Cleaning**:
   - Handled missing values, outliers, and data inconsistencies.
