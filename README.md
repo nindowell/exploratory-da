@@ -3,7 +3,6 @@
 In this Jupyter Notebook, i did an exploratory data analysis on the GCI dataset for the year 2023. The notebook can be accessed on [Kaggle here](https://www.kaggle.com/nindowell/gci-dataset-2023-eda).
 
 **Data Cleaning**:
-  - Handled missing values, outliers, and data inconsistencies.
   - Ensured correct data types for the analysis.
 
 **Correlation Analysis**:
